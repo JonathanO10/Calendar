@@ -1,0 +1,36 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td,th{
+    border: 2px solid black;
+    width: 14.27%;
+}
+th{
+    padding: 8px 0;
+    background-color:teal;
+    color:lightblue;
+}
+td{
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color: purple;
+    color: white;
+}
+.summer{
+    background-color: green;
+}
+.late{
+    background-color: yellow;
+}
+.minumum{
+    background-color: grey;
+}
+.red{
+    background-color: red;
+}
